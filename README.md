@@ -1,4 +1,4 @@
-# Laboratorios Simulacion
+# Laboratorios Simulación Digital
 
 1. Algoritmos para generación de números pseudoaleatorios
 
